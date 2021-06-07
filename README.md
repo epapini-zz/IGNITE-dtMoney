@@ -7,6 +7,7 @@
 Aplicação para controle de gastos.
 </p>
 
+<br><br>
 
 > # ScreenShots
 <div align="center" width="50%">
@@ -15,13 +16,13 @@ Aplicação para controle de gastos.
   </sub>
 </div>
    
-   
+   <br><br>
    
 > # Feito por:
 
   <a href="https://github.com/epapini">Emilio Papini</a>
 
-<br>
+<br><br>
 
 > # IGNITE RocketSeat
 [GitHub](https://github.com/Rocketseat)
@@ -30,7 +31,7 @@ Aplicação para controle de gastos.
 [Page](https://rocketseat.com.br/)
 
 
-<br>
+<br><br>
 
 > # Tecnologias
 
@@ -40,7 +41,7 @@ Aplicação para controle de gastos.
 - [MirageJS](https://miragejs.com/)
 
 
-<br>
+<br><br>
 
 > # Para excutar
 
@@ -64,6 +65,7 @@ $ yarn start
 http://localhost:3000/
 ```
 
+<br><br>
 
 > # License
 
