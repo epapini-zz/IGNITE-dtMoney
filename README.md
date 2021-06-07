@@ -7,6 +7,21 @@
 Aplicação para controle de gastos
 </p>
 
+<div align="center">
+  <sub>ScreenShots
+     <img src="https://github.com/epapini/IGNITE-dtMoney/blob/main/sc1.png" alt="dtmoney"/>
+      <img src="https://github.com/epapini/IGNITE-dtMoney/blob/main/sc2.png" alt="dtmoney"/>
+  </sub>
+</div>
+   
+   
+   
+<div align="center">
+  <sub> Made with 💖 by
+    <a href="https://github.com/epapini">Emilio Papini
+  </sub>
+</div>
+
 <p align="center">
   :moneybag: Manage your money. Project developed during the second Bootcamp Ignite module | <a href="https://github.com/Rocketseat">@Rocketseat</a>
 </p>
