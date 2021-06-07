@@ -1,9 +1,9 @@
 <p align="center">
-   <img src="./.github/topo.JPG" alt="Move It"/>
+   <img src="https://github.com/epapini/IGNITE-dtMoney/blob/main/topo.JPG" alt="dtmoney"/>
 </p>
 
 # dt Money 
-<p align="center">
+<p>
 Aplicação para controle de gastos
 </p>
 
