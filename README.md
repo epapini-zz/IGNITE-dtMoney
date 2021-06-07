@@ -2,7 +2,10 @@
    <img src="https://github.com/epapini/IGNITE-dtMoney/blob/main/topo.JPG" alt="dtmoney"/>
 </p>
 
-> # dt Money 
+<br><br>
+
+> # dt Money
+
 <p>
 Aplicação para controle de gastos.
 </p>
@@ -10,26 +13,26 @@ Aplicação para controle de gastos.
 <br><br>
 
 > # ScreenShots
-<div align="center" width="50%">
+
+<div align="center">
      <img src="https://github.com/epapini/IGNITE-dtMoney/blob/main/sc1.png" alt="dtmoney"/>
       <img src="https://github.com/epapini/IGNITE-dtMoney/blob/main/sc2.png" alt="dtmoney"/>
   </sub>
 </div>
    
-   <br><br>
+  <br><br> 
    
 > # Feito por:
-
-  <a href="https://github.com/epapini">Emilio Papini</a>
+- [Emilio Papini](https://github.com/epapini)
 
 <br><br>
 
 > # IGNITE RocketSeat
-[GitHub](https://github.com/Rocketseat)
-<br>
 
-[Page](https://rocketseat.com.br/)
+- [GitHub](https://github.com/Rocketseat)
+  <br>
 
+- [Page](https://rocketseat.com.br/)
 
 <br><br>
 
@@ -39,7 +42,6 @@ Aplicação para controle de gastos.
 - [React](https://reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 - [MirageJS](https://miragejs.com/)
-
 
 <br><br>
 
