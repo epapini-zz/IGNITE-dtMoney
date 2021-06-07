@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/topo.png" alt="Move It"/>
+   <img src="./.github/topo.JPEG" alt="Move It"/>
 </p>
 
 <p align="center">
