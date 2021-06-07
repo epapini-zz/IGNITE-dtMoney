@@ -1,5 +1,10 @@
 <p align="center">
-   <img src="./.github/topo.JPEG" alt="Move It"/>
+   <img src="./.github/topo.JPG" alt="Move It"/>
+</p>
+
+# dt Money 
+<p align="center">
+Aplicação para controle de gastos
 </p>
 
 <p align="center">
