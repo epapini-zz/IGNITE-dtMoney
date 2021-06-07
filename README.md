@@ -71,4 +71,4 @@ http://localhost:3000/
 
 <br>
 
-[![NPM](https://img.shields.io/apm/l/react)](https://github.com/epapini/IGNITE-dtMoney.gitReadme/LICENSE)
+[![NPM](https://img.shields.io/apm/l/react)](https://github.com/epapini/IGNITE-dtMoney/blob/main/LICENSE)
