@@ -7,8 +7,9 @@
 Aplicação para controle de gastos
 </p>
 
-<div align="center">
-  <sub>ScreenShots
+
+# ScreenShots
+<div align="center" width="50%">
      <img src="https://github.com/epapini/IGNITE-dtMoney/blob/main/sc1.png" alt="dtmoney"/>
       <img src="https://github.com/epapini/IGNITE-dtMoney/blob/main/sc2.png" alt="dtmoney"/>
   </sub>
