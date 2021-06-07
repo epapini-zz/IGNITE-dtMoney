@@ -25,7 +25,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/epapini/dt.money.git
+$ git clone https://github.com/epapini/IGNITE-dtMoney.git
 ```
 
 ```bash
@@ -38,19 +38,5 @@ $ yarn start
 
 Go to http://localhost:3000/ to see the result.
 
-# :bug: Issues
-
-Create a <a href="https://github.com/epapini/dt.money/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
-
-# :sparkles: Contributing
-
-- Fork this repository;
-- Create a branch with your feature: `git checkout -b my-feature`;
-- Commit your changes: `git commit -m 'feat: My new feature'`;
-- Push to your branch: `git push origin my-feature`.
-
-# :page_facing_up: License
 
 This project is under the [MIT license](./LICENSE).
-
-Thank you! 🌠
